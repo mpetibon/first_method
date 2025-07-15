@@ -100,6 +100,10 @@ pip install torch torchaudio tqdm
     - Output: `reconstructed_A_flamenco_guitar_improvisation_with_pal.wav`
 
 ## Notes
-
 - The model class definition in the notebook must match the architecture used during training.
 - This notebook is for inference only; it does not perform training or fine-tuning.
+
+-------------------------------------------------
+# 3 Trained model
+The weights of the trained model are available here:
+https://github.com/mpetibon/first_method/releases/download/trained_model/trained_encoder_decoder_simple.pth
